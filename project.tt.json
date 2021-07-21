@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "wx_mp_taro",
+  "description": "taro 构建模拟京喜拼拼小程序",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
